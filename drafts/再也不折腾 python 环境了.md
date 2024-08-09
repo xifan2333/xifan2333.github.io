@@ -1,6 +1,6 @@
 ---
 issue_number: 1
-title: 再也不折腾 python 环境了
+title: 编程 | 再也不折腾 python 环境了
 label:
     - python
 ---
