@@ -1,2 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://xifan2333.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xifan2333.github.io</link></image><lastBuildDate>Fri, 09 Aug 2024 06:43:45 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>🍚 饭铺</title><link>https://xifan2333.github.io</link><description>👨🏻‍🍳 进来坐坐</description><copyright>🍚 饭铺</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xifan2333.github.io</link></image><lastBuildDate>Fri, 09 Aug 2024 06:53:27 +0000</lastBuildDate><managingEditor>🍚 饭铺</managingEditor><ttl>60</ttl><webMaster>🍚 饭铺</webMaster><item><title>再也不折腾 python 环境了</title><link>https://xifan2333.github.io/post/zai-ye-bu-zhe-teng-%20python%20-huan-jing-le.html</link><description>## 环境之痛
+
+## 中间方案
+
+## 最终发现
+。</description><guid isPermaLink="true">https://xifan2333.github.io/post/zai-ye-bu-zhe-teng-%20python%20-huan-jing-le.html</guid><pubDate>Fri, 09 Aug 2024 06:43:16 +0000</pubDate></item></channel></rss>
